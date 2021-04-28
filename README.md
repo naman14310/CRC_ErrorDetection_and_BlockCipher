@@ -1,4 +1,4 @@
-# Assignment 2 : A Practical Application: Error Detection used in Computer Communications for Data Link Layer Security
+# CRC Error Detection & Block Cipher
 
 ## Contents :
 
